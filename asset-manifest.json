@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/maconrgarilao/meet.git/static/css/main.073c9b0a.css",
+    "main.js": "/maconrgarilao/meet.git/static/js/main.97effcb0.js",
+    "static/js/787.4b564826.chunk.js": "/maconrgarilao/meet.git/static/js/787.4b564826.chunk.js",
+    "service-worker.js": "/maconrgarilao/meet.git/service-worker.js",
+    "static/media/logo.svg": "/maconrgarilao/meet.git/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/maconrgarilao/meet.git/index.html",
+    "main.073c9b0a.css.map": "/maconrgarilao/meet.git/static/css/main.073c9b0a.css.map",
+    "main.97effcb0.js.map": "/maconrgarilao/meet.git/static/js/main.97effcb0.js.map",
+    "787.4b564826.chunk.js.map": "/maconrgarilao/meet.git/static/js/787.4b564826.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.97effcb0.js"
+  ]
+}
