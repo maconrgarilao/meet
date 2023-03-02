@@ -97,7 +97,10 @@ The project will have the following features with their user stories and scenari
 
 Serverless will give Meet app a fast and easy deployment and automatic scaling based on the number of requests received. Just like a well-known movie app where publishers submit hundreds of files everyday, Meet app may also receive hundreds of event details to each cities every day.
 
-See diagram below for your reference:
-![Meet App Diagram](https://user-images.githubusercontent.com/108959350/222266118-d0a7970f-6613-4c91-8e7d-5d60fd23d979.png)
+
+<b>See diagram below for your reference:</b>
+
+![Meet App Diagram](https://user-images.githubusercontent.com/108959350/222295900-8d8d2947-d0dc-4f44-812d-b7102e6c86b2.png)
+
 
 
