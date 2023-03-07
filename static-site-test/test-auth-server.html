@@ -57,9 +57,9 @@
         };
 
         const codeValue = document.getElementById("code");
-        const getAccessToken = document.getElementById("getToken");
+        const getToken = document.getElementById("getToken");
         const accessTokenElement = document.getElementById("accessToken");
-        const getToken ="https://3ojbkkdgs2.execute-api.us-east-1.amazonaws.com/dev/api/token";
+        const getAccessToken ="https://3ojbkkdgs2.execute-api.us-east-1.amazonaws.com/dev/api/token";
 
         getAccessToken.onclick = function () {
         let code = codeValue.value;
@@ -68,7 +68,7 @@
         if (decodeURIComponent(code) === code) {
           code = encodeURIComponent(codeValue.value);
         }
-        const getTokenRequest = getToken +  "/" + code;
+        const getTokenRequest = getAccessToken +  "/" + code;
         fetch(getTokenRequest)
           .then(function (response) {
             return response.json();
