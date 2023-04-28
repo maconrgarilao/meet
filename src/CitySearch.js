@@ -5,7 +5,7 @@ class CitySearch extends Component {
 
     query: '',
     suggestions: [],
-    showSuggestions: undefined
+    showSuggestions: undefined,
   }
 
   handleInputChanged = (event) => {
@@ -25,7 +25,7 @@ class CitySearch extends Component {
     });
 
     this.props.updateEvents(suggestion);
-  }
+  };
 
   render() {
     return (
